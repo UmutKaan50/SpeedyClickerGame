@@ -1,2 +1,1 @@
-# Click-Or-Slash-Game
- 
+# SpeedyClickerGame
