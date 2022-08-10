@@ -10,3 +10,4 @@ Try to avoid undesired objects and click desired ones. With that score as high a
 
 ![SpeedyClickerGif](https://user-images.githubusercontent.com/74989036/183710693-234aba81-cdc3-47c3-9fe8-c6ae0d697c21.gif)
 
+## [Play Speedy Clicker Game!](https://play.unity.com/mg/other/webgl-builds-231701)
